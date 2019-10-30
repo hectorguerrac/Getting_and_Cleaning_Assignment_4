@@ -1,0 +1,18 @@
+Variables description
+
+•	url: variable to load url address
+•	features: dataset to load "features.txt" 
+•	activity_labels: dataset to load "activity_labels.txt" 
+•	subject_test: dataset to load "subject_test" 
+•	X_test: dataset to load "X_test" 
+•	y_test: dataset to load "y_test" 
+•	subject_train: dataset to load "subject_train" 
+•	X_train: dataset to load "X_train" 
+•	y_train: dataset to load "y_train" 
+•	dataset: dataset to set tidy 
+•	meancol: vector to set columns index with "mean" in the name
+•	stdcol: vector to set columns index with "set" in the name
+•	meanstd: vector to set columns index with "mean" and "std" in the name
+•	mean_std_dataset: dataset with only the measurements on the mean and standard deviation for each measurement
+•	meandata: dataset with the average of each for each activity and each subject.
+
